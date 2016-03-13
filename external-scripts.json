@@ -11,7 +11,16 @@
   "hubot-shipit",
   "hubot-bookmark",
   "hubot-hangman",
-  "hubot-reactions",
   "hubot-trivia-game",
-  "hubot-humanity"
+  "hubot-humanity",
+  "hubot-seriouslyguys",
+  "hubot-9gag",
+  "hubot-sentimental",
+  "hubot-youtube",
+  "hubot-business-cat",
+  "hubot-darts",
+  "hubot-motivate",
+  "hubot-reaction",
+  "hubot-victory",
+  "hubot-thank-you"
 ]
